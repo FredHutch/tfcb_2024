@@ -36,16 +36,14 @@ Here are the updated dates for the lectures in 2024, starting with September 26 
 | 9       | Oct 24   | Maggie Russell      | [Data structures/biological analyses in Python (continued)](lectures/lecture09)               |
 | 10      | Oct 29   | Phil Bradley        | [Modeling and machine learning in Python](lectures/lecture10)                                 |
 | 11      | Oct 31   | Phil Bradley        | [Modeling/machine learning in Python (continued)](lectures/lecture11)                         |
-| 12      | Nov 5    | Rasi Subramaniam    | [Data analysis using R/tidyverse](lectures/lecture12/)                                        |
-| 13      | Nov 7    | Rasi Subramaniam    | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)                            |
-| 14      | Nov 12   | Elizabeth Humphries | [Introduction to sequencing data](lectures/lecture14/)                                        |
-| 15      | Nov 14   | Elizabeth Humphries | [Genomic data in R](lectures/lecture15/)                                                      |
-| 16      | Nov 19   | Elizabeth Humphries | [Biological sequences and annotations in Bioconductor](lectures/lecture16/)                   |
+| 12      | Nov 5    | Matthew Chan        | [Data analysis using R/tidyverse](lectures/lecture12/)                                        |
+| 13      | Nov 7    | Matthew Chan        | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)                            |
+| 14      | Nov 12   | Rasi Subramaniam    | [Introduction to sequencing data](lectures/lecture14/)                                        |
+| 15      | Nov 14   | Rasi Subramaniam    | [Genomic data in R](lectures/lecture15/)                                                      |
+| 16      | Nov 19   | Rasi Subramaniam    | [Biological sequences and annotations in Bioconductor](lectures/lecture16/)                   |
 | 17      | Nov 21   | Maggie Russell      | [Immune repertoire sequencing and analysis](lectures/lecture17/)                              |
 | 18      | Nov 26   | Manu Setty          | [Single-cell RNA-seq analysis](lectures/lecture18/)                                           |
 | 19      | Dec 3    | Manu Setty          | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                               |
-
-
 
 Materials for each lecture will be available in this repository prior to the class session;
 the link for each topic will take you to the folder containing materials for that class.
@@ -110,7 +108,7 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 
 - [Phil Bradley](https://www.fredhutch.org/en/labs/profiles/bradley-phil.html)
 - [Melody Campbell](https://www.fredhutch.org/en/faculty-lab-directory/campbell-melody.html)
-- [Elizabeth Humphries](https://www.linkedin.com/in/elizabeth-humphries-61202a103/)
+- [Matthew Chan](https://www.linkedin.com/in/matthew-c-chan-0/)
 - [Maggie Russell](https://www.linkedin.com/in/magdalena-russell/)
 - [Manu Setty](https://research.fredhutch.org/setty/en.html)
 - [Arvind Rasi Subramaniam](http://rasilab.fredhutch.org)
