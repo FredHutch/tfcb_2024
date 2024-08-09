@@ -17,11 +17,11 @@ Time: 3:30PM-4:50PM, Tue & Thu, Sep 28 - Dec 5 2023
 
 Class Location: B1-072/074 (Weintraub Building, Fred Hutch SLU campus)
 
-TA Office Hours: 11:00am-12:00pm Wed (Nashwa) 2:00pm-3:00pm Thu (Sarah)
+TA Office Hours and Location: 
 
-TA Office Hours Location: Zoom (see Slack) or 2nd floor of Steam Plant @ Fred Hutch room S2-135
+- Justin: 3:00PM-4:00PM Mon, Arnold Building  M1-A403 and Zoom
+- Lucas: 3:00PM-4:00PM Wed, Thomas Building Double Helix Cafe and Zoom
 
-Here are the updated dates for the lectures in 2024, starting with September 26 and following every Thursday and Tuesday:
 
 | Lecture | Date     | Instructor          | Topic                                                                                         |
 | ------- | -------- | ------------------- | --------------------------------------------------------------------------------------------- |
@@ -115,5 +115,5 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 
 ## Teaching Assistants
 
-- Nashwa Ahmed 
-- Sarah Huang
+- [Justin Hui](https://mcb-seattle.edu/student_profiles/hui-justin/)
+- [Lucas Kampmann](https://mcb-seattle.edu/student_profiles/kampman-lucas/)
