@@ -40,12 +40,12 @@ Once you have installed the requisite software, then you should be able to perfo
 
 1) Open VS Code
 
-1) Clone tfcb_2023 repo to your local computer  
-    - Navigate to the tfcb_2023 repo's main page and find a green button labeled **Code** near the top right corner. Once you click the **Code**  button, a dropdown will appear. Copy the URL under "HTTPS" tab option.  
+1) Clone tfcb_2024 repo to your local computer  
+    - Navigate to the tfcb_2024 repo's main page and find a green button labeled **Code** near the top right corner. Once you click the **Code**  button, a dropdown will appear. Copy the URL under "HTTPS" tab option.  
     - If using VSCode interface: Click **Clone Git Repository...**  and paste the URL   
     - If using terminal: Navigate to the directory where you want to clone the repository using the terminal. Use the command: `git clone <URL>`
 
-1) Open the tfcb_2023 repo in VS Code. A notification of "Folder containing a Dev Container configuration file" will appear. Click "Reopen in Container". This will install the container. *Note: this step might take a long time depending on your computer and internet speed, so please try to complete this step before Oct 3rd.*
+1) Open the tfcb_2024 repo in VS Code. A notification of "Folder containing a Dev Container configuration file" will appear. Click "Reopen in Container". This will install the container. *Note: this step might take a long time depending on your computer and internet speed, so please try to complete this step before Oct 3rd.*
 
 1) After installing the container, then you should be able to run the test code (hint: pick the right kernel for R, python etc.)
 
@@ -53,7 +53,7 @@ Once you have installed the requisite software, then you should be able to perfo
 ## Tips for troubleshooting
 ### Jupyter Kernels in VSCode
 1) Jupyter Extension in VSCode:
-    * Ensure you have the Jupyter Extension for VSCode installed within the development container. The recommended version, known to work correctly, is: `v2023.8.1002501831`.
+    * Ensure you have the Jupyter Extension for VSCode installed within the development container. The recommended version, known to work correctly, is: `v2024.9.2024092401`.
 
 1) Checking Your Active Environment:
     * Open a terminal in VSCode within the development container.
@@ -87,4 +87,3 @@ In VSCode, R is executed through Jupyter. If R is functioning as expected, you c
         - Ensure you're within the Remote[Dev Container] context.
         - Paste the path you obtained from the `which R` command.
     * Upon configuration, your R path should be listed under available kernels. You can now select this kernel to execute the R test notebook.
-

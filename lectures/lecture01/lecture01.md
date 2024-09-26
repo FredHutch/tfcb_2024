@@ -26,11 +26,10 @@ customTheme: custom
 
 ## Communication
 
-Slack Workspace: TFCB_2023
+Slack Workspace: TFCB2024 (see Canvas for invite link)
 
-- <span style="color:magenta;">#general</span>: course announcements (please turn on notifications for this channel)
 - <span style="color:magenta;">#lectures-homeworks</span>: questions about course content and help for homework
-- see pinned posts in each channel for quick links and reminders
+- see pinned posts for zoom links and reminders
 
 ---
 
@@ -41,7 +40,7 @@ Slack Workspace: TFCB_2023
 - Rasi Subramaniam
 - Associate Professor in Basic Sciences & Computational Biology @FredHutch
 - Research Area: mRNA Translation
-- http://rasilab.fredhutch.org/
+- https://rasilab.github.io
 
 ---
 
@@ -50,31 +49,31 @@ Slack Workspace: TFCB_2023
 <table>
 <tr>
 <td style="padding-right:200px;">
-<img src="./img/instructors/nashwa-ahmed.jpg" style="width:150px;"/> 
+<img src="./img/instructors/justin-hui.jpg" style="width:150px;"/> 
 </td>
 <td>
-<img src="./img/instructors/sarah-huang.png"  style="width:150px;"/> 
+<img src="./img/instructors/lucas-kampmann.jpg"  style="width:150px;"/> 
 </td>
 </tr>
 <tr>
 <td style="padding-right:200px;">
-Nashwa Ahmed
+Justin Hui
 </td>
 <td> 
-Sarah Huang
+Lucas Kampmann
 </td>
 </tr>
 <tr>
 <td style="padding-right:200px;">
-Wed 11AM-12PM
+Mon 3PM-4PM
 </td>
-<td>Thu 2PM-3PM
+<td>Wed 3PM-4PM
 </td>
 </tr>
 </table>
 
 <div style="font-size:18pt;margin-top:50px;">
-Steam Plant Building, Fred Hutch S2-135 (2nd floor)
+Arnold Building M1-A403 (Justin), Thomas Building Double Helix Cafe (Lucas)
 
 Zoom (see Slack for link)
 </div>
@@ -110,7 +109,7 @@ Maggie Russell
 </tr>
 <tr>
 <td>
-<img src="./img/instructors/elizabeth-humphries.jpg" style="width:150px;">
+<img src="./img/instructors/matthew-chan.jpg" style="width:150px;">
 </td>
 <td>
 <img src="./img/instructors/manu-setty.jpeg" style="width:152px;">
@@ -121,7 +120,7 @@ Maggie Russell
 </tr>
 <tr>
 <td>
-Elizabeth Humphries
+Matthew Chan
 </td>
 <td>
 Manu Setty
@@ -132,7 +131,7 @@ Rasi Subramaniam
 </tr>
 </table>
 
-Computational Biology & Translational Data Science Programs
+Computational Biology Program @ Fred Hutch
 
 ---
 
@@ -187,20 +186,18 @@ By the end of the course, you should be able to:
 
 ## Course website
 
-Syllabus, lectures, homeworks
+You will find syllabus, lectures, homeworks
 
-Rendered materials (prettier/easier to view):  
-https://fredhutch.github.io/tfcb_2023/
+https://github.com/fredhutch/tfcb_2024
 
-Original GitHub repository:
-https://github.com/fredhutch/tfcb_2023
+**Repo is updated just before lectures, make sure to ‘*pull*’ changes**
 
 ---
 
 ## Homeworks
 
 Submit through <a href="http://canvas.uw.edu/">Canvas</a>   
-MCB 536 A Au 23
+MCB 536 A Au 24
 Tools For Computational Biology
 
 <p>
