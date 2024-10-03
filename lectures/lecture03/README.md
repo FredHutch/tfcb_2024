@@ -15,13 +15,11 @@ customTheme: custom
 
 ## [Rasi Subramaniam](http://rasilab.fredhutch.org)
 
-[Link to slides](https://fredhutch.github.io/tfcb_2023/lectures/lecture03/revealjs_slides/index.html)
-
 ---
 
 ## Reminders
 
-The homework assignment is available today (October 5) and is due October 12 at 3:30pm.
+The homework assignment is available today (October 3) and is due October 10 at 3:30pm.
 
 ---
 
@@ -45,11 +43,14 @@ The homework assignment is available today (October 5) and is due October 12 at 
 This class requires Microsoft Excel or LibreOffice Calc (for opening `.xlsx` or `.csv` files).
 </div>
 
+---
+
 ## Helpful resources
 
 - [VSCode Intro Video Series](https://code.visualstudio.com/docs/getstarted/introvideos)
 - [Crash Course on Git and GitHub Video](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/)
+* [GitHub is an effective platform for collaborative and reproducible laboratory research](https://arxiv.org/abs/2408.09344)
 
 ---
 
@@ -151,7 +152,7 @@ project_name
 
 - Use `README.md` to give an overview of the project and file organization
 - Use `.gitignore` to ignore files that should not be tracked by git
-- Use `install/` to define the software environment for analysis (can also use [GitHub Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages) eg. see https://github.com/orgs/rasilab/packages)
+- See [https://github.com/rasilab/github_demo/](https://github.com/rasilab/github_demo/) for an example repository.
 
 ---
 
@@ -196,7 +197,7 @@ analysis
   - Date format: `YYYY-MM-DD`
   - No version numbers or names such as `rasi_v20` (GitHub does this automatically)
 - **Experiment labels**
-  - `exp001`, `exp002` etc.
+  - `exp001`, `exp002` etc. (issue numbers are better for GitHub-based workflows, see [here](https://arxiv.org/abs/2408.09344))
   - Use in filenames, sample annotations, issues
 - **Sample labels** 
   - `16p1`, `16p2` ... `20t1`, `20t2` etc... 
