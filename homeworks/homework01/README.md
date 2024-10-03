@@ -16,7 +16,7 @@ _Include the link to your GitHub profile here._
 
 This question assesses your ability to track a project using Git.
 
-Download the course files with the following link: [github.com/FredHutch/tfcb_2023/archive/refs/heads/main.zip](https://github.com/FredHutch/tfcb_2023/archive/refs/heads/main.zip). Copy the contents of `homeworks/homework01/messy-project-directory/` to a new directory on your computer named `tfcb-homework01`.
+Download the course files with the following link: [github.com/FredHutch/tfcb_2024/archive/refs/heads/main.zip](https://github.com/FredHutch/tfcb_2023/archive/refs/heads/main.zip). Copy the contents of `homeworks/homework01/messy-project-directory/` to a new directory on your computer named `tfcb-homework01`.
 
 Open the above `tfcb-homework01` in VSCode and "Initialize Repository" in the Source Control Tab. 
 
