@@ -13,7 +13,7 @@ customTheme: custom
 
 # Lecture 3: Data and Project Management
 
-## [Rasi Subramaniam](http://rasilab.fredhutch.org)
+## [Rasi Subramaniam](https://rasilab.github.io)
 
 ---
 
