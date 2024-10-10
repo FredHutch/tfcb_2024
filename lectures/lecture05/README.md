@@ -18,7 +18,7 @@ After these two lectures, you should be able to:
 
 In the second lecture, We will go over the commands presented in the previous session. We will use some of these commands to write a for loop that can automate tasks. We will also learn how to edit a file using vim and how to write and submit a shell script. A signficant portion of this session will be dedicated to working though the tutorial, initially made by [Erick Matsen](https://twitter.com/ematsen). He is much funnier than I am, so all credit to him!
 
-[The slides are here](https://github.com/FredHutch/tfcb_2023/blob/main/lectures/lecture05/slides/2023oct12_MCB536_Lecture05.pdf), and if you missed the lecture [here is a recorded version](https://youtu.be/OqwIRaNiLlc). 
+[The slides are here](https://github.com/FredHutch/tfcb_2024/blob/main/lectures/lecture05/slides/2023oct10_MCB536_Lecture05.pdf), and if you missed the lecture [here is a recorded version](https://youtu.bc). 
 
 ## Tutorial
 
@@ -32,15 +32,15 @@ execute the following commands:
 
 (Optional) If you followed along yesterday for the interactive lecture and named your folder tfcb_2023, you will need to mv your directory since it has the same name as the one we will use today.
 
-    mv tfcb_2023 tfcb_2023_inclass
+    mv tfcb_2024 tfcb_2024_inclass
     
 I think you've already cloned the repo via this command, but if not then use this command to grab the materials we'll work though today:
 
-    git clone https://github.com/fredhutch/tfcb_2023.git
+    git clone https://github.com/fredhutch/tfcb_2024.git
 
 I've made some changes since class started! Please update your repo:
 
-    cd tfcb_2023
+    cd tfcb_2024
     git pull
 
 
@@ -48,10 +48,10 @@ VERY IMPORTANT! If you have issues here let me know!!
 
 Otherwise
 
-    cd tfcb_2023/lectures/lecture04
+    cd tfcb_2024/lectures/lecture04
 
 
-Now you can start the first lesson by clicking [here](https://fredhutch.github.io/tfcb_2023/lectures/lecture04/01-first-steps).
+Now you can start the first lesson by clicking [here](https://fredhutch.github.io/tfcb_2024/lectures/lecture04/01-first-steps).
 We recommend keeping a browser open with the lesson materials as you work through the exercises on VS Studio or your computer.
-Go to [this page](https://github.com/fredhutch/tfcb_2023/tree/master/lectures/lecture04) to see the complete list of files for this lecture.
-The [`quickref.md` file](https://fredhutch.github.io/tfcb_2023/lectures/lecture04/quickref) is a short-as-possible quick reference sheet with basic commands.
+Go to [this page](https://github.com/fredhutch/tfcb_2024/tree/master/lectures/lecture04) to see the complete list of files for this lecture.
+The [`quickref.md` file](https://fredhutch.github.io/tfcb_2024/lectures/lecture04/quickref) is a short-as-possible quick reference sheet with basic commands.
