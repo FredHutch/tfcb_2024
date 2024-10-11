@@ -18,7 +18,7 @@ After these two lectures, you should be able to:
 
 In the second lecture, We will go over the commands presented in the previous session. We will use some of these commands to write a for loop that can automate tasks. We will also learn how to edit a file using vim and how to write and submit a shell script. A signficant portion of this session will be dedicated to working though the tutorial, initially made by [Erick Matsen](https://twitter.com/ematsen). He is much funnier than I am, so all credit to him!
 
-[The slides are here](https://github.com/FredHutch/tfcb_2024/blob/main/lectures/lecture05/slides/2023oct10_MCB536_Lecture05.pdf), and if you missed the lecture [here is a recorded version](https://youtu.bc). 
+[The slides are here](https://github.com/FredHutch/tfcb_2024/blob/main/lectures/lecture05/slides/2023oct10_MCB536_Lecture05.pdf), and if you missed the lecture [here is a recorded version]([https://youtu.bc](https://youtu.be/3i7-RzLPXDU). 
 
 ## Tutorial
 
