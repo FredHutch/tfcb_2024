@@ -52,7 +52,40 @@ sequence.gb<br>
 slides<br>
 vader.txt<br>
 
-_Paste your SCRIPT here (not the output)_
+My script:
+
+import os
+import shutil
+
+username = os.getlogin()
+home_dir = os.path.expanduser('~')
+
+target_dir = os.path.join(home_dir, 'Desktop', 'tfcb_2023-main', 'lectures', 'lecture04')
+
+contents_str = ''
+
+if os.path.exists(target_dir):
+    directory_contents = os.listdir(target_dir)
+    contents_str = '\n'.join(directory_contents)
+else:
+    contents_str = 'Directory does not exist.'
+
+with open('question01.txt', 'w') as file:
+    file.write(f"My username is {username}\n")
+    file.write(f"My home directory is {home_dir}\n")
+    file.write("The contents of the tfcb_2023-main/lectures/lecture04/ directory are:\n")
+    file.write(contents_str + "\n")
+
+new_dir = 'homework02'
+os.makedirs(new_dir, exist_ok=True)
+shutil.move('question01.txt', os.path.join(new_dir, 'question01.txt'))
+
+with open(os.path.join(new_dir, 'question01.txt'), 'r') as file:
+    print(file.read())  # Output the content of the file
+
+print("File question01.txt has been created and moved to 'homework02'.")
+
+
 
 
 ## Problem 2
