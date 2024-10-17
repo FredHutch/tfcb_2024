@@ -11,7 +11,7 @@ Replace the lines specified in _italics_ with your answers and save as a text fi
 
 Complete the interactive tutorial.
 
-_Did you hit any points of frustration, and if so, how could we improve the material to avoid that frustration?_
+_The interactive tutorial ran smoothly for the most part. One point of frustration was when it asked us to count files in lecture04. When I typed wc --help in the command line, there was not a useful flag for counting files._
 
 
 ## Problem 1
@@ -52,7 +52,17 @@ sequence.gb<br>
 slides<br>
 vader.txt<br>
 
-_Paste your SCRIPT here (not the output)_
+_ echo My username is $USER
+
+echo My home directory is $HOME
+
+echo The contents of the tfcb_2023/lectures/lecture04/ directory are $(ls /workspaces/tfcb_2024_copy/lectures/lecture04)
+
+mkdir homework02
+
+cat question01.sh > question01.txt
+
+mv question01.txt homework02_
 
 
 ## Problem 2
@@ -75,6 +85,14 @@ tfcb_2023/homeworks/homework02/list.txt
 
 You can make the contents of those files whatever you want (hint: slide 9... )
 
-_Paste your SCRIPT here (not the output)_
+_mkdir question02
+
+cd question02
+
+for i in $(cat /workspaces/tfcb_2024_copy/homeworks/homework02/list.txt); 
+
+do echo hello$i > file$i.txt;
+
+done_
 
 
