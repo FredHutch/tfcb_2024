@@ -21,8 +21,6 @@ iii. This homework requires use of data files:
   
 iv. You will be graded on your code and output results (knitted .html file). The assignment is worth 50 points total; partial credit can be awarded.
 
-This assignment is due on **Dec 1, 2022**. 
-
 For additional resources, please refer to these links:  
 Problems 1 & 2:  
   - https://www.bioconductor.org/packages/devel/bioc/vignettes/plyranges/inst/doc/an-introduction.html
