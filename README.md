@@ -23,27 +23,27 @@ TA Office Hours and Location:
 - Lucas: 3:00PM-4:00PM Wed, Thomas Building Double Helix Cafe and Zoom
 
 
-| Lecture | Date     | Instructor          | Topic                                                                                         |
-| ------- | -------- | ------------------- | --------------------------------------------------------------------------------------------- |
-| 1       | Sep 26   | Rasi Subramaniam    | [Introduction to Computational Biology and course](lectures/lecture01/)                       |
-| 2       | Oct 1    | TA-led              | [Software installation and troubleshooting](software/README.md)                               |
-| 3       | Oct 3    | Rasi Subramaniam    | [Introduction to VScode, Version Control, Data and project organization](lectures/lecture03/) |
-| 4       | Oct 8    | Melody Campbell     | [Introduction to the command line](lectures/lecture04/)                                       |
-| 5       | Oct 10   | Melody Campbell     | [Intro to the command line (continued)](lectures/lecture05/)                                  |
-| 6       | Oct 15   | Phil Bradley        | [Introduction to Python](lectures/lecture06/)                                                 |
-| 7       | Oct 17   | Phil Bradley        | [Intro to Python (continued)](lectures/lecture07/)                                            |
-| 8       | Oct 22   | Maggie Russell      | [Data structures and biological analyses using Python](lectures/lecture08/)                   |
-| 9       | Oct 24   | Maggie Russell      | [Data structures/biological analyses in Python (continued)](lectures/lecture09)               |
-| 10      | Oct 29   | Phil Bradley        | [Modeling and machine learning in Python](lectures/lecture10)                                 |
-| 11      | Oct 31   | Phil Bradley        | [Modeling/machine learning in Python (continued)](lectures/lecture11)                         |
-| 12      | Nov 5    | Matthew Chan        | [Data analysis using R/tidyverse](lectures/lecture12/)                                        |
-| 13      | Nov 7    | Matthew Chan        | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)                            |
-| 14      | Nov 12   | Rasi Subramaniam    | [Introduction to sequencing data](lectures/lecture14/)                                        |
-| 15      | Nov 14   | Rasi Subramaniam    | [Genomic data in R](lectures/lecture15/)                                                      |
-| 16      | Nov 19   | Rasi Subramaniam    | [Biological sequences and annotations in Bioconductor](lectures/lecture16/)                   |
-| 17      | Nov 21   | Maggie Russell      | [Immune repertoire sequencing and analysis](lectures/lecture17/)                              |
-| 18      | Nov 26   | Manu Setty          | [Single-cell RNA-seq analysis](lectures/lecture18/)                                           |
-| 19      | Dec 3    | Manu Setty          | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                               |
+| Lecture | Date   | Instructor       | Topic                                                                           |
+| ------- | ------ | ---------------- | ------------------------------------------------------------------------------- |
+| 1       | Sep 26 | Rasi Subramaniam | [Introduction to Computational Biology and course](lectures/lecture01/)         |
+| 2       | Oct 1  | TA-led           | [Software installation and troubleshooting](software/README.md)                 |
+| 3       | Oct 3  | Rasi Subramaniam | [VScode, Git, and project organization](lectures/lecture03/)                    |
+| 4       | Oct 8  | Melody Campbell  | [Introduction to the command line](lectures/lecture04/)                         |
+| 5       | Oct 10 | Melody Campbell  | [Intro to the command line (continued)](lectures/lecture05/)                    |
+| 6       | Oct 15 | Phil Bradley     | [Introduction to Python](lectures/lecture06/)                                   |
+| 7       | Oct 17 | Phil Bradley     | [Intro to Python (continued)](lectures/lecture07/)                              |
+| 8       | Oct 22 | Maggie Russell   | [Data structures and biological analyses using Python](lectures/lecture08/)     |
+| 9       | Oct 24 | Maggie Russell   | [Data structures/biological analyses in Python (continued)](lectures/lecture09) |
+| 10      | Oct 29 | Phil Bradley     | [Modeling and machine learning in Python](lectures/lecture10)                   |
+| 11      | Oct 31 | Phil Bradley     | [Modeling/machine learning in Python (continued)](lectures/lecture11)           |
+| 12      | Nov 5  | Matthew Chan     | [Data analysis using R/tidyverse](lectures/lecture12/)                          |
+| 13      | Nov 7  | Matthew Chan     | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)              |
+| 14      | Nov 12 | Rasi Subramaniam | [Biological sequences and annotations in Bioconductor](lectures/lecture14/)     |
+| 15      | Nov 14 | Rasi Subramaniam | [Introduction to sequencing data](lectures/lecture15/)                          |
+| 16      | Nov 19 | Rasi Subramaniam | [Genomic data in R](lectures/lecture16/)                                        |
+| 17      | Nov 21 | Maggie Russell   | [Immune repertoire sequencing and analysis](lectures/lecture17/)                |
+| 18      | Nov 26 | Manu Setty       | [Single-cell RNA-seq analysis](lectures/lecture18/)                             |
+| 19      | Dec 3  | Manu Setty       | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                 |
 
 Materials for each lecture will be available in this repository prior to the class session;
 the link for each topic will take you to the folder containing materials for that class.
