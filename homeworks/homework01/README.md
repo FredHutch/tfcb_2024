@@ -76,7 +76,7 @@ This question assesses your understanding of tidy data principles.
 
 Clean up the file that was originally named `Survey Data.xlsx`. Some points to remember: aim for a single tidy data frame in a single tab, don't use formatting as data, use preferred date format, properly record null values.
 
-Export this as a tab-delimited `.csv` text file with Unix line endings.
+Export this as a comma-delimited `.csv` text file.
 
 Commit the modified `.xlsx` file and the `.csv` file and publish to your public GitHub repository.
 
